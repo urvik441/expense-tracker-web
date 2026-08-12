@@ -20,15 +20,15 @@ export default function DownloadSection() {
 
             <div className="download-actions">
               <a 
-                href="/apk/expense_tracker.apk" 
-                download="expense_tracker.apk"
+                href="/apk/expencetracker1.0.2.apk" 
+                download="expencetracker1.0.2.apk"
                 type="application/vnd.android.package-archive"
                 className="btn btn-primary download-btn pulse-glow"
               >
                 <span className="dl-icon">📥</span>
                 <div className="dl-btn-text">
                   <span className="dl-main">Download Android APK</span>
-                  <span className="dl-sub">Version 1.0.0 • Direct APK File (68.5 MB)</span>
+                  <span className="dl-sub">Version 1.0.2 • Direct APK File (69.6 MB)</span>
                 </div>
               </a>
             </div>

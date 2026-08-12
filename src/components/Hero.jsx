@@ -20,13 +20,13 @@ export default function Hero() {
 
           <div className="hero-cta-group">
             <a 
-              href="/apk/expense_tracker.apk" 
-              download="expense_tracker.apk" 
+              href="/apk/expencetracker1.0.2.apk" 
+              download="expencetracker1.0.2.apk" 
               type="application/vnd.android.package-archive"
               className="btn btn-primary btn-large pulse-glow hero-btn"
             >
               <span>📥 Download APK for Android</span>
-              <span className="apk-badge">v1.0.0</span>
+              <span className="apk-badge">v1.0.2</span>
             </a>
 
             <a href="#demo" className="btn btn-secondary btn-large hero-btn">

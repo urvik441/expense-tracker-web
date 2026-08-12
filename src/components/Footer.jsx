@@ -49,7 +49,7 @@ export default function Footer() {
         <div className="footer-bottom">
           <p>© {new Date().getFullYear()} ExpenseTracker App. Built for Android.</p>
           <div className="footer-bottom-links">
-            <a href="/apk/expense_tracker.apk" download="expense_tracker.apk" type="application/vnd.android.package-archive">Download Android APK</a>
+            <a href="/apk/expencetracker1.0.2.apk" download="expencetracker1.0.2.apk" type="application/vnd.android.package-archive">Download Android APK (v1.0.2)</a>
           </div>
         </div>
       </div>

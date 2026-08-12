@@ -27,8 +27,8 @@ export default function Navbar({ theme, toggleTheme }) {
           </button>
           
           <a 
-            href="/apk/expense_tracker.apk" 
-            download="expense_tracker.apk" 
+            href="/apk/expencetracker1.0.2.apk" 
+            download="expencetracker1.0.2.apk" 
             type="application/vnd.android.package-archive"
             className="btn btn-primary nav-cta"
           >
